@@ -1,0 +1,1 @@
+activate PY37&python labelImg.py
